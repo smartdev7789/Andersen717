@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I am Andreas Andersen</h1>
-<h3 align="center">I am a full stack web developer🌟.</h3>
+<h3 align="center">I am a full stack and blockchain developer🌟.</h3>
 <br>
 
 
