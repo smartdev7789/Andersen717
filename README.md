@@ -2,7 +2,6 @@
 <h3 align="center">I am a full stack and blockchain developer🌟.</h3>
 <br>
 
-
 ## 🛠️ Skills
 
 ### Languages
