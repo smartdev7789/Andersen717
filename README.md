@@ -59,3 +59,4 @@
 </p>
 ⚡ Recent Github Activity
 <a href="https://github.com/Andersen717"><img alt="Andersen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Andersen717&custom_title=Recent%20Activity&theme=react-dark" /></a>
+
