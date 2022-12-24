@@ -57,5 +57,5 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=smartdev7789&theme=tokyonight&hide=html&layout=compact">
 </p>
 ⚡ Recent Github Activity
-<a href="https://github.com/smartdev7789"><img alt="Andersen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=smartdev7789&custom_title=Recent%20Activity&theme=react-dark" /></a>
+<a href="https://github.com/smartdev7789"><img alt="Andersen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Andersen717&custom_title=Recent%20Activity&theme=react-dark" /></a>
 
