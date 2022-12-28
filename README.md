@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am Andreas Andersen</h1>
+<h1 align="center">Hi there 👋, I am Sergey Kivi</h1>
 <h3 align="center">I am a full stack developer🌟.</h3>
 <br>
 
@@ -56,6 +56,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartdev7789&theme=algolia" alt="Andersen" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=smartdev7789&theme=tokyonight&hide=html&layout=compact">
 </p>
-⚡ Recent Github Activity
-<a href="https://github.com/smartdev7789"><img alt="Andersen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Andersen717&custom_title=Recent%20Activity&theme=react-dark" /></a>
-
